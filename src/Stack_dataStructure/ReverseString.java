@@ -23,7 +23,7 @@ public class ReverseString {
         return sb.toString();
     }
     public static void main(String[] args) {
-        String s="abc";
+        String s="madhur";
         System.out.println("string before...");
         System.out.println(s);
         System.out.println("string after...");
